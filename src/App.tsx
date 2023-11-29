@@ -1,4 +1,4 @@
-import { BowlingBall, Pins, Pin } from 'songandverse'
+import { BowlingBall, Pins, Pin } from "songandverse";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
         <Pin>{3}</Pin>
       </Pins>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
