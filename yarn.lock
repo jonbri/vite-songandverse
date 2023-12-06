@@ -1516,9 +1516,9 @@ slash@^3.0.0:
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
 songandverse@*:
-  version "5.2.6"
-  resolved "https://registry.yarnpkg.com/songandverse/-/songandverse-5.2.6.tgz#4d6f48fb55a45f2c4c46842f44c8e42ef3ef0abd"
-  integrity sha512-OVenRB8JTpADnlFyE9fIbCnbcFDsr0u2dF498Q8ORmwiGnISWYDeEVnjYLMzbtDtUStbqbotMhYZs3qei+pQBg==
+  version "5.2.7"
+  resolved "https://registry.yarnpkg.com/songandverse/-/songandverse-5.2.7.tgz#f82741370dabeda1b2cf4cf333569ee254221350"
+  integrity sha512-0vMEFWe1DKLCDqr6HV6v2Sl2MJ44C9w/zcTUoUdE1aNOgCEdMXIDYFDrdqzOvCg0jjN2plVb4Bl+cNvuwKvNtQ==
 
 source-map-js@^1.0.2:
   version "1.0.2"
